@@ -1,6 +1,5 @@
 /** @file       animation.c
-    @authors    Grace Lee    -   dil15  (51455525)
-                Cheng Qian   -   cqi17  (92490055)
+    @authors    Grace Lee    -   dil15  <dil15@uclive.ac.nz>
     @date       5 October 2015
     @brief      Animation for Game.
 */
